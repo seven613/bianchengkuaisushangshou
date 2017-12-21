@@ -1,3 +1,6 @@
+#吸血鬼
+#按顺序执行
+name =input()
 if name =='Alice':
     print('Hi,Alice.')
 elif age <12:
